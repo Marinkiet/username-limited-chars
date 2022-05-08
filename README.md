@@ -1,4 +1,5 @@
 # username-limited-chars
+LINK:  https://marinkiet.github.io/username-limited-chars/
 <br>
 ![image](https://user-images.githubusercontent.com/69327534/167315009-8910e941-d8e4-4ddb-91e8-66dbe14f0524.png)<br>
 Character length decreases till no characters are allowed
